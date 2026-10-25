@@ -1,0 +1,11 @@
+chart,path_count,graph_image_generated,paths_csv,graph_image
+prometheus,1,True,results/helm/prometheus_paths.csv,results/helm/prometheus_attack_graph.png
+alertmanager,0,False,results/helm/alertmanager_paths.csv,
+ingress-nginx,0,False,results/helm/ingress-nginx_paths.csv,
+kube-state-metrics,0,False,results/helm/kube-state-metrics_paths.csv,
+memcached,0,False,results/helm/memcached_paths.csv,
+nginx,0,False,results/helm/nginx_paths.csv,
+postgresql,0,False,results/helm/postgresql_paths.csv,
+prometheus-node-exporter,1,True,results/helm/prometheus-node-exporter_paths.csv,results/helm/prometheus-node-exporter_attack_graph.png
+rabbitmq,0,False,results/helm/rabbitmq_paths.csv,
+redis,0,False,results/helm/redis_paths.csv,

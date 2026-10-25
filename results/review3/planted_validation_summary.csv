@@ -1,0 +1,16 @@
+chain_length,method,runs,entrypoint_recall_mean,entrypoint_recall_sample_variance,entrypoint_recall_sample_stddev,entrypoint_recall_ci95_low,entrypoint_recall_ci95_high,flagged_entries_mean,flagged_entries_sample_variance,flagged_entries_sample_stddev,flagged_entries_ci95_low,flagged_entries_ci95_high,false_positive_entries_mean,false_positive_entries_sample_variance,false_positive_entries_sample_stddev,false_positive_entries_ci95_low,false_positive_entries_ci95_high,exact_chain_recall_mean,exact_chain_recall_sample_variance,exact_chain_recall_sample_stddev,exact_chain_recall_ci95_low,exact_chain_recall_ci95_high
+1,Flat review (emulated),3,0.25,0.0,0.0,0.25,0.25,4.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,,,,
+1,Graph (this work),3,1.0,0.0,0.0,1.0,1.0,16.0,0.0,0.0,16.0,16.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0
+1,Single-step lint,3,1.0,0.0,0.0,1.0,1.0,16.0,0.0,0.0,16.0,16.0,0.0,0.0,0.0,0.0,0.0,,,,,
+2,Flat review (emulated),3,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,,,,
+2,Graph (this work),3,1.0,0.0,0.0,1.0,1.0,32.0,0.0,0.0,32.0,32.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0
+2,Single-step lint,3,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,16.0,16.0,0.0,0.0,0.0,0.0,0.0,,,,,
+3,Flat review (emulated),3,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,,,,
+3,Graph (this work),3,1.0,0.0,0.0,1.0,1.0,48.0,0.0,0.0,48.0,48.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0
+3,Single-step lint,3,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,16.0,16.0,0.0,0.0,0.0,0.0,0.0,,,,,
+4,Flat review (emulated),3,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,,,,
+4,Graph (this work),3,1.0,0.0,0.0,1.0,1.0,64.0,0.0,0.0,64.0,64.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0
+4,Single-step lint,3,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,16.0,16.0,0.0,0.0,0.0,0.0,0.0,,,,,
+5,Flat review (emulated),3,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,,,,,
+5,Graph (this work),3,1.0,0.0,0.0,1.0,1.0,80.0,0.0,0.0,80.0,80.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0
+5,Single-step lint,3,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,16.0,16.0,0.0,0.0,0.0,0.0,0.0,,,,,

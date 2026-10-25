@@ -1,0 +1,46 @@
+chain_length,seed,method,planted_chains,recovered_entrypoints,entrypoint_recall,exact_chain_recall,flagged_entries,false_positive_entries
+1,101,Flat review (emulated),8,2,0.25,,4,0
+1,101,Single-step lint,8,8,1.0,,16,0
+1,101,Graph (this work),8,8,1.0,1.0,16,0
+1,202,Flat review (emulated),8,2,0.25,,4,0
+1,202,Single-step lint,8,8,1.0,,16,0
+1,202,Graph (this work),8,8,1.0,1.0,16,0
+1,303,Flat review (emulated),8,2,0.25,,4,0
+1,303,Single-step lint,8,8,1.0,,16,0
+1,303,Graph (this work),8,8,1.0,1.0,16,0
+2,101,Flat review (emulated),8,0,0.0,,4,0
+2,101,Single-step lint,8,0,0.0,,16,0
+2,101,Graph (this work),8,8,1.0,1.0,32,0
+2,202,Flat review (emulated),8,0,0.0,,4,0
+2,202,Single-step lint,8,0,0.0,,16,0
+2,202,Graph (this work),8,8,1.0,1.0,32,0
+2,303,Flat review (emulated),8,0,0.0,,4,0
+2,303,Single-step lint,8,0,0.0,,16,0
+2,303,Graph (this work),8,8,1.0,1.0,32,0
+3,101,Flat review (emulated),8,0,0.0,,4,0
+3,101,Single-step lint,8,0,0.0,,16,0
+3,101,Graph (this work),8,8,1.0,1.0,48,0
+3,202,Flat review (emulated),8,0,0.0,,4,0
+3,202,Single-step lint,8,0,0.0,,16,0
+3,202,Graph (this work),8,8,1.0,1.0,48,0
+3,303,Flat review (emulated),8,0,0.0,,4,0
+3,303,Single-step lint,8,0,0.0,,16,0
+3,303,Graph (this work),8,8,1.0,1.0,48,0
+4,101,Flat review (emulated),8,0,0.0,,4,0
+4,101,Single-step lint,8,0,0.0,,16,0
+4,101,Graph (this work),8,8,1.0,1.0,64,0
+4,202,Flat review (emulated),8,0,0.0,,4,0
+4,202,Single-step lint,8,0,0.0,,16,0
+4,202,Graph (this work),8,8,1.0,1.0,64,0
+4,303,Flat review (emulated),8,0,0.0,,4,0
+4,303,Single-step lint,8,0,0.0,,16,0
+4,303,Graph (this work),8,8,1.0,1.0,64,0
+5,101,Flat review (emulated),8,0,0.0,,4,0
+5,101,Single-step lint,8,0,0.0,,16,0
+5,101,Graph (this work),8,8,1.0,1.0,80,0
+5,202,Flat review (emulated),8,0,0.0,,4,0
+5,202,Single-step lint,8,0,0.0,,16,0
+5,202,Graph (this work),8,8,1.0,1.0,80,0
+5,303,Flat review (emulated),8,0,0.0,,4,0
+5,303,Single-step lint,8,0,0.0,,16,0
+5,303,Graph (this work),8,8,1.0,1.0,80,0

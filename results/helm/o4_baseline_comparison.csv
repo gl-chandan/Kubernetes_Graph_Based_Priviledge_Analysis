@@ -1,0 +1,31 @@
+chart,method,entry_points,flagged_entries,max_hops
+prometheus,Flat review (emulated),10,0,4
+prometheus,Single-step lint,10,1,4
+prometheus,Graph (this work),10,1,4
+alertmanager,Flat review (emulated),2,0,4
+alertmanager,Single-step lint,2,0,4
+alertmanager,Graph (this work),2,0,4
+ingress-nginx,Flat review (emulated),5,0,4
+ingress-nginx,Single-step lint,5,0,4
+ingress-nginx,Graph (this work),5,0,4
+kube-state-metrics,Flat review (emulated),2,0,4
+kube-state-metrics,Single-step lint,2,0,4
+kube-state-metrics,Graph (this work),2,0,4
+memcached,Flat review (emulated),2,0,4
+memcached,Single-step lint,2,0,4
+memcached,Graph (this work),2,0,4
+nginx,Flat review (emulated),2,0,4
+nginx,Single-step lint,2,0,4
+nginx,Graph (this work),2,0,4
+postgresql,Flat review (emulated),2,0,4
+postgresql,Single-step lint,2,0,4
+postgresql,Graph (this work),2,0,4
+prometheus-node-exporter,Flat review (emulated),2,0,4
+prometheus-node-exporter,Single-step lint,2,1,4
+prometheus-node-exporter,Graph (this work),2,1,4
+rabbitmq,Flat review (emulated),2,0,4
+rabbitmq,Single-step lint,2,0,4
+rabbitmq,Graph (this work),2,0,4
+redis,Flat review (emulated),4,0,4
+redis,Single-step lint,4,0,4
+redis,Graph (this work),4,0,4

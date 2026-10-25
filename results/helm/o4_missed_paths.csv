@@ -1,0 +1,3 @@
+chart,baseline,entry,hops,total_cost,exploitability_score,path
+prometheus,Flat review (emulated),pod::p17-prometheus::p17-prometheus-prometheus-node-exporter-template,1,3,2.5,pod::p17-prometheus::p17-prometheus-prometheus-node-exporter-template -> TARGET::cluster-admin
+prometheus-node-exporter,Flat review (emulated),pod::p17-node-exporter::p17-node-exporter-prometheus-node-exporter-template,1,3,2.5,pod::p17-node-exporter::p17-node-exporter-prometheus-node-exporter-template -> TARGET::cluster-admin

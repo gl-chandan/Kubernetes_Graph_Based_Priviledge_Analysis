@@ -1,0 +1,2 @@
+rank,entry,hops,total_cost,exploitability,path
+1,pod::p17-node-exporter::p17-node-exporter-prometheus-node-exporter-template,1,3,2.5,Pod p17-node-exporter/p17-node-exporter-prometheus-node-exporter-template  --[POD_ESCAPE]-->  CLUSTER-ADMIN
